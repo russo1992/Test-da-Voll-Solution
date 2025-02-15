@@ -16,8 +16,8 @@
 * [Índice](https://github.com/russo1992/Test-da-Voll-Solution#-%C3%ADndice)
 * [Descrição do Projeto - Teste Da Solutions](https://github.com/russo1992/Test-da-Voll-Solution#-descri%C3%A7%C3%A3o-do-projeto---teste-da-voll-solutions-)
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/Test-da-Voll-Solution#-pessoa-desenvolvedora-do-projeto)
-* [Colaboradores]()
-* [Ferramentas utilizadas]()
+* [Colaboradores](https://github.com/russo1992/Test-da-Voll-Solution/tree/main#colaboradores)
+* [Ferramentas utilizadas](https://github.com/russo1992/Test-da-Voll-Solution/tree/main#ferramentas-utilizadas-)
 
 <br/>
 
