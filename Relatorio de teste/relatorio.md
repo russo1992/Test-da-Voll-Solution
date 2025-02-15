@@ -11,8 +11,10 @@
 * Quando inserir um número de conta válido e confirmar
 * Então o sistema deve permitir o acesso à conta
 
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_04_15.png>))
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_08_51.png>))
+(![alt text](<../assets/cenario 1.png>))
+(![alt text](<../assets/cenario 1 2.png>))
+(![alt text](<../assets/cenario1 mariana.png>))
+(![alt text](<../assets/cenario pedro.png>))
 
 
 
@@ -25,8 +27,10 @@
 * Quando inserir um número de conta inválido
 * Então o sistema deve exibir uma mensagem de erro
 
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_04_15.png>))
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_08_51.png>))
+(![alt text](<../assets/cenario 1.png>))
+(![alt text](<../assets/cenario 1 2.png>))
+(![alt text](<../assets/cenario1 mariana.png>))
+(![alt text](<../assets/cenario pedro.png>))
 
 
 <br/>
@@ -39,8 +43,12 @@
 * Então o sistema deve encerrar a sessão e redirecionar para a tela de login
 
 
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_08_51.png>))
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_04_15.png>))
+(![alt text](<../assets/cenario 1 2.png>))
+(![alt text](<../assets/cenario 1.png>))
+(![alt text](<../assets/cenario1 mariana.png>))
+(![alt text](<../assets/cenario 1.png>))
+(![alt text](<../assets/cenario pedro.png>))
+(![alt text](<../assets/cenario 1.png>))
 
 <br/>
 
@@ -55,8 +63,9 @@
 * Quando acessar a tela inicial
 * Então o saldo deve ser exibido corretamente
 
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_04_15.png>))
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_16_02.png>))
+(![alt text](<../assets/cenario 1 2.png>))
+(![alt text](<../assets/cenario1 mariana.png>))
+(![alt text](<../assets/cenario pedro.png>))
 
 <br/>
 
@@ -71,9 +80,12 @@
 * Quando inserir um valor válido e confirmar
 * Então o sistema deve adicionar o valor ao saldo e exibir uma mensagem de sucesso
 
-(![alt text](<../assets/cenario4 1.png.png>))
-(![alt text](<../assets/cenario4.png.png>))
-
+(![alt text](<../assets/joao silva deposito 1.png>))
+(![alt text](<../assets/joao deposito 2.png>))
+(![alt text](<../assets/mariana deposito.png>))
+(![alt text](<../assets/mariana deposito 2.png>))
+(![alt text](<../assets/pedro deposito.png>))
+(![alt text](<../assets/pedro deposito 2.png>))
 
 <br/>
 
@@ -83,6 +95,14 @@
 * Dado que o usuário deseja fazer um depósito
 * Quando inserir um valor negativo ou zero
 * Então o sistema deve exibir uma mensagem de erro e não alterar o saldo
+
+(![alt text](<../assets/joao deposito negativo.png>))
+(![alt text](<../assets/joao deposito negativo 2.png>))
+(![alt text](<../assets/mariana deposito negativo.png>))
+(![alt text](<../assets/mariana deposito negativo 2.png>))
+(![alt text](<../assets/pedro deposito negativo.png>))
+(![alt text](<../assets/pedro deposito negativo 2.png>))
+
 
 <br/>
 
@@ -97,6 +117,13 @@
 * Quando inserir um valor válido e confirmar
 * Então o sistema deve descontar o valor do saldo e exibir uma mensagem de sucesso
 
+(![alt text](<../assets/joao saque.png>))
+(![alt text](<../assets/joao saque 2.png>))
+(![alt text](<../assets/mariana saque.png>))
+(![alt text](<../assets/mariana saque 2.png>))
+(![alt text](<../assets/pedro saque.png>))
+(![alt text](<../assets/pedro saque 2.png>))
+
 <br/>
 
 **Cenário 8 – Saque com saldo insuficiente**
@@ -105,6 +132,13 @@
 * Dado que o usuário deseja sacar um valor maior que o saldo disponível
 * Quando tentar confirmar o saque
 * Então o sistema deve exibir uma mensagem de erro e impedir a transação
+
+(![alt text](<../assets/joao saque negativo.png>))
+(![alt text](<../assets/joao saque negativo 2.png>))
+(![alt text](<../assets/mariana saque negativo.png>))
+(![alt text](<../assets/mariana saque negativo 2.png>))
+(![alt text](<../assets/pedro saque negativo.png>))
+(![alt text](<../assets/pedro saque negativo 2.png>))
 
 <br/>
 
