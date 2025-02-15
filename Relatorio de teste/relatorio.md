@@ -71,6 +71,10 @@
 * Quando inserir um valor válido e confirmar
 * Então o sistema deve adicionar o valor ao saldo e exibir uma mensagem de sucesso
 
+(![alt text](<../assets/cenario4 1.png.png>))
+(![alt text](<../assets/cenario4.png.png>))
+
+
 <br/>
 
 **Cenário 6 – Depósito de valor negativo ou zero**
