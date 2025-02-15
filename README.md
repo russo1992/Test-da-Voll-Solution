@@ -40,6 +40,9 @@
 * Histórico de Transações: Teste da consistência e precisão dos registros de movimentações financeiras.
 <br/>
 
+### OS Cenários , Casos de teste e o Relatório de Bug se encontram dentro de suas pastas em arquivos .md
+<br/>
+
 ##  📌 Pessoa Desenvolvedora do Projeto:
 Prazer em conhecê-lo(a)! Meu nome é Lucas Oliveira, tenho 32 anos e moro na Cidade Maravilhosa, Rio de Janeiro.<br />
 Gmail : lucasrj58@gmail.com <br /> 
