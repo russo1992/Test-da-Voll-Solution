@@ -55,7 +55,7 @@
 * Quando acessar a tela inicial
 * Então o saldo deve ser exibido corretamente
 
-(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_08_51.png>))
+(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_04_15.png>))
 (![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_16_02.png>))
 
 <br/>
