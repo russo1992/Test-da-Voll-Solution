@@ -18,3 +18,15 @@
 * [Pessoa Desenvolvedora do Projeto]()
 * [Colaboradores]()
 * [Ferramentas utilizadas]()
+
+<br/>
+
+
+## 📌 Descrição do Projeto - Teste da Voll Solutions :
+<br/>
+Este projeto foi criado com o intuito de identificar possíveis bugs numa aplicação chamada Banco de testes.
+
+* Usuário chamado : João Silva , conta : 1234-5 , R$: 1000,00
+* Usuário chamado : Maria Santos , conta : 5678-9 , R$: 5000,00
+* Usuário chamado : Pedro Oliveira , conta : 9012 , R$: 100,00
+
