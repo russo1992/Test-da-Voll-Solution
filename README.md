@@ -65,5 +65,9 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 
 * git
 * github
+<br/>
+
+
+ <img src="assets/obrigado.jpg">
 
 
