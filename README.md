@@ -38,3 +38,15 @@
 * Saque: Testes para evitar retiradas inválidas e garantir a exatidão do saldo.
 * Transferência: Verificação da funcionalidade de envio de valores para outras contas.
 * Histórico de Transações: Teste da consistência e precisão dos registros de movimentações financeiras.
+<br/>
+
+##  📌 Pessoa Desenvolvedora do Projeto:
+Prazer em conhecê-lo(a)! Meu nome é Lucas Oliveira, tenho 32 anos e moro na Cidade Maravilhosa, Rio de Janeiro.<br />
+Gmail : lucasrj58@gmail.com <br /> 
+Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira-rodrigues-07bb791b1/). <br />
+<br/>
+
+ <img src="assets/lukinas.png" width=115>
+
+<br/>
+
