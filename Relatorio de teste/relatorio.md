@@ -153,6 +153,13 @@
 * Quando inserir um valor válido e um destinatário correto
 * Então o sistema deve descontar o saldo do remetente e creditar o destinatário
 
+(![alt text](<../assets/joao transferencia.png>))
+(![alt text](<../assets/joao transferencia 2.png>))
+(![alt text](<../assets/mariana transferencia.png>))
+(![alt text](<../assets/mariana transferencia 2.png>))
+(![alt text](<../assets/pedro transferencia.png>))
+(![alt text](<../assets/pedro transferencia 2.png>))
+
 <br/>
 
 **Cenário 10 – Transferência para conta inexistente**
