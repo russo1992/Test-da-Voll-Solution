@@ -169,6 +169,13 @@
 * Quando inserir um número de conta inválido
 * Então o sistema deve exibir uma mensagem de erro e não realizar a transferência
 
+(![alt text](<../assets/joao conta inexistente.png>))
+(![alt text](<../assets/joao conta inexistente 2.png>))
+(![alt text](<../assets/maria conta inexistente.png>))
+(![alt text](<../assets/mariana conta inexistente 2.png>))
+(![alt text](<../assets/pedro inexistente.png>))
+(![alt text](<../assets/pedro inexistente 2.png>))
+
 <br/>
 
 
