@@ -12,7 +12,7 @@
 ### 📌 Descrição
 
 
-Login com credenciais válidas
+Login com credenciais válidas no sitema e ir automaticamente pra uma tela de login.
 
 
 
