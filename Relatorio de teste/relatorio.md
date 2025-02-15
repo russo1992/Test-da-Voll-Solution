@@ -9,7 +9,9 @@
 
 * Dado que o usuário está na tela de login
 * Quando inserir um número de conta válido e confirmar
-* Então o sistema deve permitir o acesso à conta.
+* Então o sistema deve permitir o acesso à conta
+
+<img src="[assets/imagem.png.png]">
 
 
 
@@ -123,3 +125,6 @@
 * Quando acessar a aba de histórico
 * Então todas as transações devem ser exibidas corretamente com data, valor e tipo
 
+
+
+[def]: ssets
