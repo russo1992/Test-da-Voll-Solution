@@ -189,6 +189,8 @@
 * Quando acessar a aba de histórico
 * Então todas as transações devem ser exibidas corretamente com data, valor e tipo
 
+(![alt text](<../assets/joao historico.png>))
+(![alt text](<../assets/mariana historico.png>))
+(![alt text](<../assets/pedro historico.png>))
 
 
-[def]: ssets
