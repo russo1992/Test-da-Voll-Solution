@@ -40,6 +40,12 @@
 * Histórico de Transações: Teste da consistência e precisão dos registros de movimentações financeiras.
 <br/>
 
+**Técnicas de Testes usadas**
+<br/>
+
+* Teste Exploratório : baseada em Personas ;
+  
+
 ####  OS Cenários , Casos de teste e o Relatório de Bug se encontram dentro de suas pastas em arquivos .md
 ####  Não houve a nescessidade de usar o Jira devido a falta de tempo, então o quadro kanban não foi feito.
 <br/>
