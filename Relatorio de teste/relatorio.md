@@ -38,6 +38,10 @@
 * Quando clicar em "Sair da conta"
 * Então o sistema deve encerrar a sessão e redirecionar para a tela de login
 
+
+(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_08_51.png>))
+(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_04_15.png>))
+
 <br/>
 
 
@@ -50,6 +54,9 @@
 * Dado que o usuário está logado
 * Quando acessar a tela inicial
 * Então o saldo deve ser exibido corretamente
+
+(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_08_51.png>))
+(![alt text](<../assets/Desafio QA e mais 2 páginas - Pessoal — Microsoft​ Edge 15_02_2025 14_16_02.png>))
 
 <br/>
 
