@@ -25,7 +25,7 @@
 ## 📌 Descrição do Projeto - Teste da Voll Solutions :
 <br/>
 
-* Este projeto foi criado com o intuito de identificar possíveis bugs numa aplicação chamada Banco de testes.
+* Este projeto foi criado com o intuito de identificar possíveis bugs numa aplicação chamada Banco testes.
 * E tem como objetivo testar as principais funcionalidades do sistema bancário "Banco Teste", garantindo sua confiabilidade e identificando possíveis falhas. Para isso, foram analisadas as seguintes operações:
 <br/>
 
