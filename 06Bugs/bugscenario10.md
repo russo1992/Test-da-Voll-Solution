@@ -20,7 +20,7 @@ O sistema esta deixando fazer transferência para conta inexistente
 3. . Então o sistema deve exibir uma mensagem de erro e não realizar a transferência
 
 ### 🔎 Resultado Esperado
-. Deveria exebir uma mensagem de erro e não realizar a transferência
+. Deveria exibir uma mensagem de erro e não realizar a transferência
 
 ### ❌ Resultado Obtido
 . A tranferência esta sendo feita colocando, nome, valor, qualquer caracteres no seu campo
