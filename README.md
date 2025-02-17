@@ -41,7 +41,7 @@
 <br/>
 
 
-####  Os Cenários , Casos de teste , Teste exploratorio , Relatório de teste e Relatório de Bug se encontram dentro de suas pastas em arquivos .md
+####  O Plano de teste , Cenários de teste , Casos de teste , Teste exploratório , Relatório de teste e Relatório de Bug se encontram dentro de suas pastas em arquivos .md
 ####  Não houve a nescessidade de usar o Jira devido a falta de tempo, então o quadro kanban não foi feito.
 <br/>
 
