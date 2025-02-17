@@ -69,7 +69,7 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 ## Colaboradores✨
 <br/>
 
-* Bruno Cesar
+* Bruno Cesar (Graças a ele , fiquei sabendo da postagem da vaga).
 
 <br/>
 
