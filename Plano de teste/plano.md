@@ -31,8 +31,8 @@ Fulano de tal (QA Specialist)
 
 Histórico de mudanças
 
-16/Fevereiro/2025 crie o Plano <br/>
-16/Fevereiro/2025 finalizei o Plano
+* 16/Fevereiro/2025 crie o Plano 
+* 16/Fevereiro/2025 finalizei o Plano
 <br/>
  
 
