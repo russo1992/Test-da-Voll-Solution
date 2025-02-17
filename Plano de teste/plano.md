@@ -316,7 +316,7 @@ Banco Teste
 ## Tipos de Testes Funcional
 <br/>
 
-* Teste de Interface
+* Teste Web
 
 <br/>
 
