@@ -43,9 +43,6 @@
 * E tem como objetivo testar as principais funcionalidades do sistema bancário "Banco Teste", garantindo sua confiabilidade e identificando possíveis falhas. Para isso, foram analisadas as seguintes operações:
 <br/>
 
-* Usuário chamado : João Silva , conta : 1234-5 , R$: 1000,00
-* Usuário chamado : Maria Santos , conta : 5678-9 , R$: 5000,00
-* Usuário chamado : Pedro Oliveira , conta : 9012 , R$: 100,00
 * Login e Logout: Verificação do acesso à conta e segurança ao sair.
 * Consulta de Saldo: Garantia de que o valor apresentado é atualizado corretamente.
 * Depósito: Validação da inserção de valores e atualização do saldo.
