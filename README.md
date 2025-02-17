@@ -52,7 +52,7 @@
 <br/>
 
 
-####  O Plano de teste , Cenários de teste , Casos de teste , Teste exploratório , Relatório de teste e Relatório de Bug se encontram dentro de suas pastas em arquivos .md
+####  O Plano de teste , Cenários de teste , Casos de teste , Teste exploratório , Relatório de teste , Relatório de Bug , Sugestôes de melhorias e Métricas de teste se encontram dentro de suas pastas em arquivos .md
 ####  Não houve a nescessidade de usar o Jira devido a falta de tempo, então o quadro kanban não foi feito.
 <br/>
 
@@ -75,8 +75,9 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 
 ## Ferramentas utilizadas 💻
 
-* git
-* github
+* Git
+* Github
+* Xmind
 <br/>
 
 
