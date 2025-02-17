@@ -253,21 +253,20 @@ Banco Teste
 <br/>
 # Matriz de Rastreabilidade
 
-| ID do Cenário | Cenário de Teste                                                    | Status         |
-|---------------|------------------------------------------------------------------- -|----------------|
-| 1             |    Login com credenciais válidas                                    |   Concluída x  |
-| 2             |    Login com conta inexistente                                      |   Concluída x  |
-| 3             |    Logout da conta                                                  |   Concluída x  |
-| 4             |    Exibição correta do saldo                                        |   Concluída x  |
-| 5             |    Depósito de valor positivo                                       |   Concluída x  |
-| 6             |    Depósito de valor negativo ou zero                               |   Concluída x  |
-| 7             |    Saque com saldo suficiente                                       |   Concluída x  |
-| 8             |    Saque com saldo insuficiente                                     |   Concluída x  |
-| 9             |    Transferência bem-sucedida                                       |  Concluída x   |
-| 10            |    Transferência para conta inexistente                             |  Concluída x   |
-| 11            |    Exibição correta do histórico                                    |  Concluída x   |
+| ID do Cenário | Cenário de Teste                           | Status        |
+|--------------|-------------------------------------------|--------------|
+| 1            | Login com credenciais válidas            | Concluída ✅ |
+| 2            | Login com conta inexistente              | Concluída ✅ |
+| 3            | Logout da conta                          | Concluída ✅ |
+| 4            | Exibição correta do saldo               | Concluída ✅ |
+| 5            | Depósito de valor positivo              | Concluída ✅ |
+| 6            | Depósito de valor negativo ou zero      | Concluída ✅ |
+| 7            | Saque com saldo suficiente              | Concluída ✅ |
+| 8            | Saque com saldo insuficiente            | Concluída ✅ |
+| 9            | Transferência bem-sucedida              | Concluída ✅ |
+| 10           | Transferência para conta inexistente    | Concluída ✅ |
+| 11           | Exibição correta do histórico          | Concluída ✅ |
 
-                       
 <br/>
 
 
