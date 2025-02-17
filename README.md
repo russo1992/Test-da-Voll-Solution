@@ -18,6 +18,17 @@
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/Test-da-Voll-Solution#-pessoa-desenvolvedora-do-projeto)
 * [Colaboradores](https://github.com/russo1992/Test-da-Voll-Solution/tree/main#colaboradores)
 * [Ferramentas utilizadas](https://github.com/russo1992/Test-da-Voll-Solution/tree/main#ferramentas-utilizadas-)
+* [Plano de teste](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/Plano%20de%20teste/plano.md)
+* [Cenario de teste](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/Cenarios%20de%20teste/cenarios.md)
+* [Caso de teste](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/Casos%20de%20Teste/casos.md)
+* [Relatorio de teste](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/Relatorio%20de%20teste/relatorio.md)
+* [Reporter bugs](https://github.com/russo1992/Test-da-Voll-Solution/tree/main/Bugs)
+* [Sugestões de melhorias](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/Sugestoes%20de%20melhorias/sugestoes.md)
+* [Teste exploratório](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/Teste%20exploratorio/exploratorio.md)
+
+
+
+
 
 <br/>
 
