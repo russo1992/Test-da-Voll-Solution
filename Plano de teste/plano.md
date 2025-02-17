@@ -217,7 +217,7 @@ Banco Teste
 
 * Banco Teste ficar sem a cosntruçao da tela de cadastro e login por mais de 3 dias (Suspensão)
 
-* Banco Teste retornou a operação e está no ar por mais de 24 horas (Retomada)
+* Banco Teste foram feita a criação das duas telas que faltavam (está feita) por mais de 24 horas (Retomada)
 <br/>
  
 
