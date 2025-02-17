@@ -25,6 +25,8 @@
 * [Teste exploratório](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/05Teste%20exploratorio/exploratorio.md)
 * [Reporter bugs](https://github.com/russo1992/Test-da-Voll-Solution/tree/main/06Bugs)
 * [Sugestões de melhorias](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/07Sugestoes%20de%20melhorias/sugestoes.md)
+* [Métricas de teste](https://github.com/russo1992/Test-da-Voll-Solution/blob/main/08Metricas%20de%20teste/metricas.md)
+  
   
 
 
