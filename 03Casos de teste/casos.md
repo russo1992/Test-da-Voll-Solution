@@ -3,8 +3,8 @@
 
 ##  Login e Logout
 <br/>
-
-**Cenário 1 – Login com credenciais válidas**
+CT 01
+**Cenário – Login com credenciais válidas**
 <br/>
 
 * Dado que o usuário está na tela de login
@@ -12,8 +12,8 @@
 * Então o sistema deve permitir o acesso à conta.
 
 <br/>
-
-**Cenário 2 – Login com conta inexistente**
+CT 02
+**Cenário – Login com conta inexistente**
 <br/>
 
 * Dado que o usuário está na tela de login
@@ -21,8 +21,8 @@
 * Então o sistema deve exibir uma mensagem de erro
 
 <br/>
-
-**Cenário 3 – Logout da conta**
+CT 03
+**Cenário – Logout da conta**
 <br/>
 
 * Dado que o usuário está logado
@@ -34,8 +34,8 @@
 
 ## Consulta de Saldo
 <br/>
-
-**Cenário 4 – Exibição correta do saldo**
+CT 04 
+**Cenário – Exibição correta do saldo**
 <br/>
 
 * Dado que o usuário está logado
@@ -47,8 +47,8 @@
 
 ## Depósito
 <br/>
-
-**Cenário 5 – Depósito de valor positivo**
+CT 05
+**Cenário – Depósito de valor positivo**
 <br/>
 
 * Dado que o usuário deseja fazer um depósito
@@ -56,8 +56,8 @@
 * Então o sistema deve adicionar o valor ao saldo e exibir uma mensagem de sucesso
 
 <br/>
-
-**Cenário 6 – Depósito de valor negativo ou zero**
+CT 06
+**Cenário – Depósito de valor negativo ou zero**
 <br/>
 
 * Dado que o usuário deseja fazer um depósito
@@ -69,8 +69,8 @@
 
 ## Saque
 <br/>
-
-**Cenário 7 – Saque com saldo suficiente**
+CT 07
+**Cenário – Saque com saldo suficiente**
 <br/>
 
 * Dado que o usuário tem saldo suficiente
@@ -78,8 +78,8 @@
 * Então o sistema deve descontar o valor do saldo e exibir uma mensagem de sucesso
 
 <br/>
-
-**Cenário 8 – Saque com saldo insuficiente**
+CT08
+**Cenário – Saque com saldo insuficiente**
 <br/>
 
 * Dado que o usuário deseja sacar um valor maior que o saldo disponível
@@ -91,8 +91,8 @@
 
 ## Transferência
 <br/>
-
-**Cenário 9 – Transferência bem-sucedida**
+CT 09
+**Cenário – Transferência bem-sucedida**
 <br/>
 
 * Dado que o usuário deseja transferir um valor para outro destinatário
@@ -100,8 +100,8 @@
 * Então o sistema deve descontar o saldo do remetente e creditar o destinatário
 
 <br/>
-
-**Cenário 10 – Transferência para conta inexistente**
+CT 10
+**Cenário – Transferência para conta inexistente**
 <br/>
 
 * Dado que o usuário deseja transferir um valor
@@ -113,8 +113,8 @@
 
 ## Histórico de Transações
 <br/>
-
-**Cenário 11 – Exibição correta do histórico**
+CT 11
+**Cenário – Exibição correta do histórico**
 <br/>
 
 * Dado que o usuário realizou transações
