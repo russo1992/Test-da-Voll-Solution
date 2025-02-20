@@ -1,7 +1,7 @@
 # Reporter Bug
 <br/>
 
-## 🐞 Bug Report: Bug funcional
+## 🐞 Bug Report CT 08: Bug funcional
 
 **ID do Bug:** BUG-2025-004
 **Status:** Aberto  

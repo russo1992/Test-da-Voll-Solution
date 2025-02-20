@@ -1,7 +1,7 @@
 # Reporter Bug
 <br/>
 
-## 🐞 Bug Report: de Segurança
+## 🐞 Bug Report CT 01: de Segurança
 
 **ID do Bug:** BUG-2025-001  
 **Status:** Aberto  
