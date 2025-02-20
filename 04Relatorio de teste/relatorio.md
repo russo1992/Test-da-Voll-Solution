@@ -3,8 +3,10 @@
 
 ##  Login e Logout
 <br/>
+CT 01
+<br/>
 
-**Cenário 1 – Login com credenciais válidas**
+**Cenário – Login com credenciais válidas**
 <br/>
 
 * Dado que o usuário está na tela de login
@@ -18,6 +20,8 @@
 
 
 
+<br/>
+Ct 02 
 <br/>
 
 **Cenário 2 – Login com conta inexistente**
@@ -33,6 +37,8 @@
 (![alt text](<../assets/cenario pedro.png>))
 
 
+<br/>
+CT 03
 <br/>
 
 **Cenário 3 – Logout da conta**
@@ -55,6 +61,8 @@
 
 ## Consulta de Saldo
 <br/>
+CT 04
+<br/>
 
 **Cenário 4 – Exibição correta do saldo**
 <br/>
@@ -72,6 +80,8 @@
 
 ## Depósito
 <br/>
+CT 05
+<br/>
 
 **Cenário 5 – Depósito de valor positivo**
 <br/>
@@ -87,6 +97,8 @@
 (![alt text](<../assets/pedro deposito.png>))
 (![alt text](<../assets/pedro deposito 2.png>))
 
+<br/>
+Ct 06
 <br/>
 
 **Cenário 6 – Depósito de valor negativo ou zero**
@@ -109,6 +121,8 @@
 
 ## Saque
 <br/>
+CT 07
+<br/>
 
 **Cenário 7 – Saque com saldo suficiente**
 <br/>
@@ -124,6 +138,8 @@
 (![alt text](<../assets/pedro saque.png>))
 (![alt text](<../assets/pedro saque 2.png>))
 
+<br/>
+CT 08
 <br/>
 
 **Cenário 8 – Saque com saldo insuficiente**
@@ -145,6 +161,8 @@
 
 ## Transferência
 <br/>
+CT 09
+<br/>
 
 **Cenário 9 – Transferência bem-sucedida**
 <br/>
@@ -160,6 +178,8 @@
 (![alt text](<../assets/pedro transferencia.png>))
 (![alt text](<../assets/pedro transferencia 2.png>))
 
+<br/>
+CT 10
 <br/>
 
 **Cenário 10 – Transferência para conta inexistente**
@@ -180,6 +200,8 @@
 
 
 ## Histórico de Transações
+<br/>
+Ct 11
 <br/>
 
 **Cenário 11 – Exibição correta do histórico**
