@@ -21,7 +21,7 @@ CT 01
 
 
 <br/>
-Ct 02 
+CT 02 
 <br/>
 
 **Cenário 2 – Login com conta inexistente**
@@ -98,7 +98,7 @@ CT 05
 (![alt text](<../assets/pedro deposito 2.png>))
 
 <br/>
-Ct 06
+CT 06
 <br/>
 
 **Cenário 6 – Depósito de valor negativo ou zero**
@@ -201,7 +201,7 @@ CT 10
 
 ## Histórico de Transações
 <br/>
-Ct 11
+CT 11
 <br/>
 
 **Cenário 11 – Exibição correta do histórico**
