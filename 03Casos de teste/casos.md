@@ -4,6 +4,8 @@
 ##  Login e Logout
 <br/>
 CT 01
+<br/>
+
 **Cenário – Login com credenciais válidas**
 <br/>
 
@@ -13,6 +15,8 @@ CT 01
 
 <br/>
 CT 02
+<br/>
+
 **Cenário – Login com conta inexistente**
 <br/>
 
@@ -22,6 +26,8 @@ CT 02
 
 <br/>
 CT 03
+<br/>
+
 **Cenário – Logout da conta**
 <br/>
 
@@ -35,6 +41,8 @@ CT 03
 ## Consulta de Saldo
 <br/>
 CT 04 
+<br/>
+
 **Cenário – Exibição correta do saldo**
 <br/>
 
@@ -48,6 +56,8 @@ CT 04
 ## Depósito
 <br/>
 CT 05
+<br/>
+
 **Cenário – Depósito de valor positivo**
 <br/>
 
@@ -57,6 +67,8 @@ CT 05
 
 <br/>
 CT 06
+<br/>
+
 **Cenário – Depósito de valor negativo ou zero**
 <br/>
 
@@ -70,6 +82,8 @@ CT 06
 ## Saque
 <br/>
 CT 07
+<br/>
+
 **Cenário – Saque com saldo suficiente**
 <br/>
 
@@ -79,6 +93,7 @@ CT 07
 
 <br/>
 CT08
+
 **Cenário – Saque com saldo insuficiente**
 <br/>
 
@@ -92,6 +107,8 @@ CT08
 ## Transferência
 <br/>
 CT 09
+<br/>
+
 **Cenário – Transferência bem-sucedida**
 <br/>
 
@@ -101,6 +118,8 @@ CT 09
 
 <br/>
 CT 10
+<br/>
+
 **Cenário – Transferência para conta inexistente**
 <br/>
 
@@ -114,6 +133,8 @@ CT 10
 ## Histórico de Transações
 <br/>
 CT 11
+<br/>
+
 **Cenário – Exibição correta do histórico**
 <br/>
 
